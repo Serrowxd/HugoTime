@@ -1,0 +1,2 @@
+# HugoTime
+A Hugo Website?
